@@ -7,6 +7,23 @@
 
 ## 2. 特徴
 
+### LiPoバッテリーの数値の見方
+
+![リポバッテリー](/circuit-control-team/LiPoBattery-picuture/battery-picuture.jpg "LiPoBatteryPicture")
+
+#### 電圧
+
+#### 放電容量
+
+バッテリーの容量を示す単位  
+バッテリー容量に対する充放電電流値の比  
+
+#### 放電容量係数
+
+Cレート・・・放電容量に対する充放電電流値の比  
+電荷量を表す C （クーロン）ではないので注意  
+1Cとは1時間で満充電状態から完全に放電した状態になる時の電流値を表す  
+
 ### 寿命
 
 一般的に正しく利用して1〜2年  
@@ -77,11 +94,15 @@
 
 ### 手順
 
-1. 充電器の設定をLiPoバッテリーにし、セル数と放電容量を合わせる
+1. 充電器の設定をLIPOにし、セル数と放電容量を合わし、充電モードを決定する
+![setting](/circuit-control-team/LiPoBattery-picuture/1-setting.jpg "setting")
+
 1. 耐火袋にいれたまま、バランス(充電)コネクターと出力コネクター(XT端子)を接続する
-1. 充電モードを選択する
+![connect](/circuit-control-team/LiPoBattery-picuture/2-connect.jpg "connect")
+
 1. 実行ボタンを長押しし、画面に表示される実行内容を確認し、  
 再度実行ボタンを押す
+![check](/circuit-control-team/LiPoBattery-picuture/3-check.jpg "check")
 
 ### 使用時（充電）
 
