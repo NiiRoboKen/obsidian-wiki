@@ -1,7 +1,7 @@
 # Obsidian Wiki
 新居浜高専ロボット研究部のwiki
 
-[このwikiを編集する人はこれを見ること！](./notes-on-writing-wiki.md)
+[このwikiを編集する人はこれを見ること！](obsidian-wiki/notes-on-writing-wiki.md)
 
 # 各班のwiki
 - [回路・制御班](./circuit-control-team/home.md)
