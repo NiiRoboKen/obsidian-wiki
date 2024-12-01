@@ -5,6 +5,7 @@
 - [歯車について](./about-gears.md)
 - [タイミングベルト・チェーン](about-chains-and-belts.md)
 # リンク機構
+[リンク機構とは](about-link-mechanism.md)
 - てこクランク機構
 - 両てこ機構
 - 両クランク機構
