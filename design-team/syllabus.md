@@ -3,7 +3,7 @@
 # 回転の伝達
 - [モーメント](./about-moment.md)
 - [歯車について](./about-gears.md)
-- タイミングベルト・チェーン
+- [タイミングベルト・チェーン](about-chains-and-belts.md)
 # リンク機構
 - てこクランク機構
 - 両てこ機構
