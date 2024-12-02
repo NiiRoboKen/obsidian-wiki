@@ -6,7 +6,7 @@
 - [タイミングベルト・チェーン](about-chains-and-belts.md)
 # リンク機構
 [リンク機構とは](about-link-mechanism.md)
-- てこクランク機構
+- [てこクランク機構](about-tekocrank.md)
 - 両てこ機構
 - 両クランク機構
 - スライダクランク機構
