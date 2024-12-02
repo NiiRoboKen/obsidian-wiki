@@ -7,8 +7,8 @@
 # リンク機構
 [リンク機構とは](about-link-mechanism.md)
 - [てこクランク機構](about-tekocrank.md)
-- [両てこ機構](about-double-crank.md)
-- 両クランク機構
+- [両クランク機構](about-double-crank.md)
+- [両てこ機構](about-double-teko.md)
 - スライダクランク機構
 - カム機構
 # 材料について
