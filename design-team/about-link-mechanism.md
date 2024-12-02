@@ -9,3 +9,4 @@
 - 往復スライダクランク機構
 
 [タイミングベルトとチェーンについて](about-chains-and-belts.md) <= 前へ　　次に => [てこクランク機構](about-tekocrank.md)
+[シラバスに戻る](design-team-syllabus.md)　[ホームにもどる](design-team-home.md)

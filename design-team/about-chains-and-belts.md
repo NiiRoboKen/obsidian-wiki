@@ -18,3 +18,4 @@
 スプロケットやタイミングギアの大きさが原動車と従動車の間で差が生まれたら、そこで回転速度が変わる。この変わり具合は、歯車と同じ速度伝達比で求められる。
 
 [歯車について](about-gears.md) <= 前へ　　次に => [リンク機構とは](about-link-mechanism.md)
+[シラバスに戻る](design-team-syllabus.md)　[ホームにもどる](design-team-home.md)

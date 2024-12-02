@@ -5,4 +5,4 @@
 
 # 各班のwiki
 - [回路・制御班](./circuit-control-team/home.md)
-- [設計班](./design-team/home.md)
+- [設計班](design-team-home.md)

@@ -1,5 +1,5 @@
 # 目次
-- [シラバス](./syllabus.md)
+- [シラバス](design-team-syllabus.md)
 - 知識置き場
 	- [モーメントについて](about-moment.md)
 	- [歯車について](about-gears.md)
