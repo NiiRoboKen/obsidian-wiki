@@ -3,7 +3,11 @@
 
 ## リンク機構の種類
 リンク機構には、いろいろな種類がある。主に使われている代表的なものをまとめたページのリンクがいかにある。
-- てこクランク機構
-- 両クランク機構
-- 両てこ機構
+- [てこクランク機構](about-tekocrank.md)
+- [両クランク機構](about-double-crank)
+- [両てこ機構](about-double-teko.md)
 - 往復スライダクランク機構
+
+[チェーンとベルトについて](about-chains-and-belts.md) <= 前へ　|　次に => [てこクランク機構](about-tekocrank.md)
+[シラバスに戻る](syllabus.md)
+
