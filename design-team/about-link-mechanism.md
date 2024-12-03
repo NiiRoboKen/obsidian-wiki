@@ -6,8 +6,9 @@
 - [てこクランク機構](about-tekocrank.md)
 - [両クランク機構](about-double-crank)
 - [両てこ機構](about-double-teko.md)
-- 往復スライダクランク機構
+- [往復スライダクランク機構](about-slider-crank.md)
 
 [チェーンとベルトについて](about-chains-and-belts.md) <= 前へ　|　次に => [てこクランク機構](about-tekocrank.md)
+
 [シラバスに戻る](syllabus.md)
 

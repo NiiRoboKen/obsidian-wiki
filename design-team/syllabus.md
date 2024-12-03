@@ -9,7 +9,7 @@
 - [てこクランク機構](about-tekocrank.md)
 - [両クランク機構](about-double-crank.md)
 - [両てこ機構](about-double-teko.md)
-- スライダクランク機構
+- [スライダクランク機構](about-slider-crank.md)
 - カム機構
 # 材料について
 - 応力の種類
