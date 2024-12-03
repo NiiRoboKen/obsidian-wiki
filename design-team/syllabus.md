@@ -10,7 +10,7 @@
 - [両クランク機構](about-double-crank.md)
 - [両てこ機構](about-double-teko.md)
 - [スライダクランク機構](about-slider-crank.md)
-- カム機構
+- [カム機構](about-cam-mechanism.md)
 # 材料について
 - 応力の種類
 - 応力ひずみ線図
