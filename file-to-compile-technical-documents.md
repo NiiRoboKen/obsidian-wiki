@@ -2,7 +2,7 @@
 
 ## 設計班
 ### ギアボックス
-- IG 32 カタログ=>[gearbox(IG-32_32H_32P_32PH)]([gearbox(IG-32_32H_32P_32PH).pdf](https://github.com/NiiRoboKen/obsidian-wiki/blob/main/folder-to-compile-technical-documents/gearbox(IG-32_32H_32P_32PH).pdf))
+- IG 32 カタログ=>[gearbox(IG-32_32H_32P_32PH)](https://github.com/NiiRoboKen/obsidian-wiki/blob/main/folder-to-compile-technical-documents/gearbox(IG-32_32H_32P_32PH).pdf)
 - IG 36_38 カタログ =>[gearbox(IG-36_38P)](https://github.com/NiiRoboKen/obsidian-wiki/blob/main/folder-to-compile-technical-documents/gearbox(IG-36_38P).pdf)
 - IG 42 カタログ =>[gearbox(IG-42_42C_42H).pdf](https://github.com/NiiRoboKen/obsidian-wiki/blob/main/folder-to-compile-technical-documents/gearbox(IG-42_42C_42H).pdf)
 - IG 52 カタログ =>[gearbox(IG52_52H).pdf](https://github.com/NiiRoboKen/obsidian-wiki/blob/main/folder-to-compile-technical-documents/gearbox(IG52_52H).pdf)
