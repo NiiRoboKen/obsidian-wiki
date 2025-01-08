@@ -5,6 +5,7 @@
 - マブチモータのカタログ => [mabuchi-catalog.pdf](./folder-to-compile-technical-documents/mabuchi-catalog.pdf)
 - RS 385 の納入仕様書 => [TKS-A10-000457_MS385PH.pdf](./folder-to-compile-technical-documents/TKS-A10-000457_MS385PH.pdf)
 - RS 555 の納入仕様書 => [TKS-A10-000458_MS555VC.pdf](./folder-to-compile-technical-documents/TKS-A10-000458_MS555VC.pdf)
+- RZ 735 の納入仕様書 => [RZ735VA-9517.pdf](./folder-to-compile-technical-documents/RZ735VA-9517.pdf)
 
 ### ギアボックス
 - IG 32 カタログ => [gearbox(IG-32_32H_32P_32PH)](./folder-to-compile-technical-documents/gearbox(IG-32_32H_32P_32PH).pdf)
