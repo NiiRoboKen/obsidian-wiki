@@ -6,3 +6,5 @@
 # 各班のwiki
 - [回路・制御班](./circuit-control-team/home.md)
 - [設計班](./design-team/home.md)
+
+[技術仕様書・データシート置き場](file-to-compile-technical-documents.md)
