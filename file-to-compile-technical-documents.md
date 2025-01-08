@@ -10,7 +10,7 @@
 
 ### モータ
 - マブチモータのカタログ =>[mabuchi-catalog.pdf](./folder-to-compile-technical-documents/mabuchi-catalog.pdf)
-- RS 385 の納入仕様書 =>[TKS-A10-000457_MS385PH.pdf]./folder-to-compile-technical-documents/TKS-A10-000457_MS385PH.pdf)
+- RS 385 の納入仕様書 =>[TKS-A10-000457_MS385PH.pdf](./folder-to-compile-technical-documents/TKS-A10-000457_MS385PH.pdf)
 - RS 555 の納入仕様書 =>[TKS-A10-000458_MS555VC.pdf](./folder-to-compile-technical-documents/TKS-A10-000458_MS555VC.pdf)
 
 
