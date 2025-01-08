@@ -2,7 +2,7 @@
 
 ## 設計班
 ### ギアボックス
-- IG 32 カタログ=>[gearbox(IG-32_32H_32P_32PH)](gearbox(IG-32_32H_32P_32PH).pdf)
+- IG 32 カタログ=>[gearbox(IG-32_32H_32P_32PH)](./folder-to-compile-technical-document/gearbox(TG-32_32G_32P_32PH).pdf)
 - IG 36_38 カタログ =>[gearbox(IG-36_38P)](gearbox(IG-36_38P).pdf)
 - IG 42 カタログ =>[[gearbox(IG-42_42C_42H).pdf]]
 - IG 52 カタログ =>[[gearbox(IG52_52H).pdf]]
